@@ -2,7 +2,7 @@
 
 A modern web-based tool for comprehensive device and browser capability testing.
 
-🔗 **Live Demo**: [Device Testing Suite](h)
+🔗 **Live Demo**: [Device Testing Suite](https://device-testing.netlify.app/)
 
 ## 🚀 Features
 
